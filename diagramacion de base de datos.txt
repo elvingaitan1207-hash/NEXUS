@@ -1,0 +1,124 @@
+**1. USUARIOS**
+
+ID	Nombre	    Apellido	   Rol
+
+1	Alejandra   Martínez     Aficionado
+
+2	Darling     Torrez       Aficionado
+
+3	Andrés      Martínez     Aficionado
+
+4       Elvis       Gaitan       Aficionado.
+
+5       Miguel      Espinoza     Aficionado
+
+
+
+**2. COMUNIDADES**
+
+ID	Comunidad	          Departamento
+
+1	Catarina	              Masaya
+
+2	Masaya     	              Masaya
+
+3	San Juan de Oriente	      Masaya
+
+4	Nindirí                       Masaya
+
+
+
+**3. CATEGORÍAS**
+
+ID	Categoría
+
+1	Naturaleza
+
+2	Historia
+
+3	Cultura
+
+4	Gastronomía
+
+5	Artesanía
+
+
+
+4\. **LUGARES TURÍSTICOS**
+
+ID	Lugar	                           Comunidad	Categoría
+
+1	Laguna de Apoyo                    Catarina	Naturaleza
+
+2	Mirador de Catarina	           Catarina	Naturaleza
+
+3	Parque Nacional Volcán             Masaya       Naturaleza 
+
+4	Nindirí                            Masaya       historia.
+
+
+
+
+
+&#x20;
+
+**5. RESEÑAS**
+
+ID	Usuario	Lugar	                        Calificación     	Comentario
+
+1	Alejandra Martínez: Laguna de Apoyo	  9/10	                Excelente lugar y vista maravillosa
+
+2	Darling	 Torrez: Mirador de Catarina	  10/10	                Un lugar increíble
+
+3	Miguel Espinoza: Volcán Masaya	          9/10                  Muy interesante y bonito
+
+
+
+**6. EMPRENDIMIENTOS**
+
+ID	Nombre	                       Tipo	                                 Comunidad
+
+1	Restaurante local	     Gastronomía	                         Catarina
+
+2	Artesanías de pacayita	      Artesanía                                  Pacayita
+
+3	Vivero comunitario	      Vivero	                                 Catarina
+
+
+
+**7. FAVORITOS**
+
+ID	Usuario                        Lugar
+
+1	Alejandra Martínez:	   Laguna de Apoyo
+
+2       Miguel Espinoza:	   Mirador de Catarina
+
+3	Andrés Martínez:              Volcán Masaya
+
+
+
+**8. IMÁGENES**
+
+ID	Lugar                          	Imagen
+
+1	Laguna de Apoyo	                laguna\_apoyo.jpg
+
+2	Mirador de Catarina	        mirador\_catarina.jpg
+
+3	Volcán Masaya	                volcan\_masaya.jpg
+
+
+
+**9. RUTAS**
+
+ID	Usuario	                Origen	          Destino	         Distancia
+
+1	Alejandra Martínez:	Catarina	  Laguna de Apoyo	 8 km
+
+2	Miguel Espinoza:	Masaya            Volcán Masaya          10 km
+
+3	Andrés Martinez:	Laguna            Laguna de apoyo        9 km
+
+
+
